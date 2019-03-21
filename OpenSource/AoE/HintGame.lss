@@ -1,0 +1,2 @@
+CreateProcessEx("<RootPath>\setup.exe","","");
+fc_regfileimport("<RootPath>\Import.reg","<RootPath>\HintGame.rte");
