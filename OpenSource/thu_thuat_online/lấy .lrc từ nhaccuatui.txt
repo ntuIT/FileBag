@@ -1,0 +1,8 @@
+https://www.tools4noobs.com/online_tools/decrypt/
+
+KEY:
+Lyr1cjust4nct
+mode: STREAM
+Decode the input using [Hexa]
+
+content: copy content from file *.lrc to area textbox
