@@ -1,0 +1,8 @@
+kết nối Android Studio với NOX
+
+-Mở cmd, nhập tên ổ đĩa cài Nox
+(ví dụ cài lên ổ D thì nhập D: nếu cài lên ổ E thì nhập E: còn nếu cài lên C thì khỏi)
+
+-gõ lệnh cd Program Files (x86)\Nox\bin
+
+-gõ nox_adb.exe connect 127.0.0.1:62001
