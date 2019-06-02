@@ -1,0 +1,8 @@
+defaults write com.apple.screencapture type JPEG
+killall SystemUIServer
+
+defaults write com.apple.screencapture location /( tên thư mục bạn muốn lưu)
+killall SystemUIServer
+
+thủ thuật:
+dùng ~/folder thay thế cho "/Users/name/folder"
