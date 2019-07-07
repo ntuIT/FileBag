@@ -1,0 +1,22 @@
+DELIMITER //
+DROP PROCEDURE IF EXISTS add_shipper;
+create procedure add_shipper(INOUT shipperNo int, INOUT shipperName VARCHAR(255), INOUT shipperPhone TEXT)
+begin
+    insert into employees(EmployeeID, FirstName, Notes)
+    VALUES (shipperNo, shipperName, shipperPhone);
+end;
+DELIMITER ;
+
+DELIMITER //
+DROP PROCEDURE IF EXISTS add_customer;
+create procedure add_customer( INOUT customerFullName VARCHAR(255)
+, inout contact varchar(255)
+, inout customerAddress varchar(255)
+, inout customerCity varchar(255)
+, INOUT customerNo varchar(255)
+, inout customerCountry varchar(255))
+begin
+    insert into customers(customerid, customername, contactname, address, city, postalcode, country)
+    VALUES(customerFullName, contact, customerAddress, customerCity, customerNo, customerCountry);
+end;
+DELIMITER ;
