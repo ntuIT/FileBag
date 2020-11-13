@@ -1,10 +1,10 @@
 <scheme name="MyColor" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-04-10T21:36:42</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-10T21:37:02</property>
-    <property name="originalScheme">My Color</property>
+    <property name="created">2020-09-28T11:33:24</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.2.2.0.0</property>
+    <property name="modified">2020-09-28T11:34:05</property>
+    <property name="originalScheme">MyColor</property>
   </metaInfo>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
