@@ -3,9 +3,6 @@ https://github.com/wy3/opr
 <br>
 References MP Android Chard: https://github.com/PhilJay/MPAndroidChart
 
-license Jetbrains (ID: 657DFR271U): sunoftruth1946
-<br>
-pass: 657DFR271U
 <br><br>
 license Jetbrains (ID: V7TT5L2MKY): vdnha
 <br>
